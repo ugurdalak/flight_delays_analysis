@@ -19,10 +19,10 @@ This project utilizes The Airline Flight Delays dataset.
 
 | Table Name | Description |
 | :--- | :--- |
-| `flights` | Contains all flight details |
-| `airlines` | IATA Codes and Airlines information |
-| `airports` | Airport details like states, cities, lats&longs |
-| `cancellation_codes` | Cancellation codes explanations|
+| `flights` | Primary dataset containing all flight logs and performance metrics.|
+| `airlines` | Mapping of IATA Codes to full Airline names. |
+| `airports` | Geographic metadata including States, Cities, Latitude, and Longitude. |
+| `cancellation_codes` | Reference table for standardized flight cancellation reasons.|
 
 ### 📁 Repository Structure
 * `flight_delays.sql`: SQL queries for the project
