@@ -25,7 +25,7 @@ This project utilizes The Airline Flight Delays dataset.
 | `cancellation_codes` | Reference table for standardized flight cancellation reasons.|
 
 ### 📁 Repository Structure
-* `flight_delays.sql`: SQL queries for the project
-* `United Air Lines Inc. (UA) Operational Risk Mitigation Task.pdf`: Business Task 
-* `Quantified Findings for Operational Risk Mitigation Strategy (ORMS).pdf`: Operational Findings 
-* `Executive Summary.pdf`: Executive Summary
+* `flight_delays.sql`: SQL queries for data extraction, cleaning, and metric calculation.
+* `United Air Lines Inc. (UA) Operational Risk Mitigation Task.pdf`: Definition of the United Air Lines (UA) operational risk mitigation goals.
+* `Quantified Findings for Operational Risk Mitigation Strategy (ORMS).pdf`: Detailed quantified insights and data-backed findings for the ORMS strategy.
+* `Executive Summary.pdf`: High-level synthesis for stakeholders, focusing on strategic recommendations.
